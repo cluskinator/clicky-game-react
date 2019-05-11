@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "count": 0,
+		"name": "Archer",
+    "image": "./images/archer.jpg"
+  },
+
+  {
+    "id": 2,
+    "count": 0,
+		"name": "Barry",
+    "image": "./images/barry.jpg"
+  },
+  {
+    "id": 3,
+    "count": 0,
+		"name": "Cheryl/Carol/Cherlene",
+    "image": "./images/cheryl.jpg"
+  },
+  {
+    "id": 4,
+    "count": 0,
+		"name": "Cyril",
+    "image": "./images/cyril.jpg"
+  },
+  {
+    "id": 5,
+    "count": 0,
+		"name": "Krieger",
+    "image": "./images/krieger.jpg"
+  },
+  {
+    "id": 6,
+    "count": 0,
+		"name": "Lana",
+    "image": "./images/lana.jpg"
+  },
+  {
+    "id": 7,
+    "count": 0,
+		"name": "Malory",
+    "image": "./images/mom.jpg"
+  },
+  {
+    "id": 8,
+    "count": 0,
+		"name": "Pam",
+    "image": "./images/pam.jpg"
+  },
+  {
+    "id": 9,
+    "count": 0,
+		"name": "Woodhouse",
+    "image": "./images/woodhouse.jpg"
+  }
+] 
